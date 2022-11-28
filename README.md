@@ -1,3 +1,5 @@
+Build with Intellij & maven
+
 Example input using Postman:
 http://localhost:8080/api/v1/calculate-reward
 
